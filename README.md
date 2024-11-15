@@ -45,6 +45,13 @@ We will create a Windows 10 VM as the endpoint for this project. The VM will be 
   
 <img src="https://github.com/anandu106/soar_edr_project/blob/d5bdd8234db702521249da998bc6e426125f6e48/Images/Install_key.png" width="750">
 
+- Once created copy the installation key. 
 - Scroll down and download "Windows 64 bit" to the VM.
    
 <img src="https://github.com/anandu106/soar_edr_project/blob/864839b925d3c514e8981a7898d62b5acbd10764/Images/Sensor_download.png" width="250">
+
+- In the VM, open Powershell as administrator and navigate to the directory where above mentioned file was downloaded to
+- Type ".\{downloaded file name} -i {copied installation key}" and hit enter
+- If done correctly you should see whats shown below
+
+<img src="https://github.com/anandu106/soar_edr_project/blob/90e4a888b7edee23e428b2a123632c449479bda8/Images/Lima_success.png" width="250"> 
