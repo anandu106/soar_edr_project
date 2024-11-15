@@ -97,11 +97,11 @@ We will create a Windows 10 VM as the endpoint for this project. The VM will be 
 
 https://github.com/user-attachments/assets/0861fc39-1169-4662-886a-bf65b11d7d7e
 
-The email alert when the hack tool is executed on the VM
+- The email alert when the hack tool is executed on the VM
 
 <img src="https://github.com/anandu106/soar_edr_project/blob/c02d823ed59be31f5343641709ba0403ddb328b7/Images/mail.png" width="750">
 
-The Slack alert after isolating the VM
+- The Slack alert after isolating the VM
 
 <img src="https://github.com/anandu106/soar_edr_project/blob/c02d823ed59be31f5343641709ba0403ddb328b7/Images/slack.png" width="750">
 
