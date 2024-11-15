@@ -88,7 +88,7 @@ We will create a Windows 10 VM as the endpoint for this project. The VM will be 
 - Playbook, in Tines is called as "Story"
 - Create a Story using Webhook, Trigger, HTTP Request and Send Email. For a detailed explanation, refer <a href="https://www.youtube.com/watch?v=RR4tfMMkIPY">here</a>
 
-<img src="https://github.com/anandu106/soar_edr_project/blob/c02d823ed59be31f5343641709ba0403ddb328b7/Images/Tines.png" width="250">
+<img src="https://github.com/anandu106/soar_edr_project/blob/c02d823ed59be31f5343641709ba0403ddb328b7/Images/Tines.png" width="500">
 
 - Finally when the playbook is created it should look something like this.......
 
