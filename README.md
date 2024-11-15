@@ -47,4 +47,4 @@ We will create a Windows 10 VM as the endpoint for this project. The VM will be 
 
 - Scroll down and download "Windows 64 bit" to the VM.
    
-<img src="https://github.com/anandu106/soar_edr_project/blob/d5bdd8234db702521249da998bc6e426125f6e48/Images/Install_key.png" width="500">
+<img src="https://github.com/anandu106/soar_edr_project/blob/864839b925d3c514e8981a7898d62b5acbd10764/Images/Sensor_download.png" width="500">
