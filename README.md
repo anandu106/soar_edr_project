@@ -58,5 +58,5 @@ We will create a Windows 10 VM as the endpoint for this project. The VM will be 
 
 - You should also see the device under the Sensors List.
   
-<img src="https://github.com/anandu106/soar_edr_project/blob/91554ed1293bc897ea7e5211cd38dda41eb6a99c/Images/Sensors_list.png" width="250">
+<img src="https://github.com/anandu106/soar_edr_project/blob/91554ed1293bc897ea7e5211cd38dda41eb6a99c/Images/Sensors_list.png" width="750">
 
