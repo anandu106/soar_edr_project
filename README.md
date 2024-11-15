@@ -44,3 +44,7 @@ We will create a Windows 10 VM as the endpoint for this project. The VM will be 
 - Create an installation key as shown below. I have already created one called SOAR_EDR-Lab
   
 <img src="https://github.com/anandu106/soar_edr_project/blob/d5bdd8234db702521249da998bc6e426125f6e48/Images/Install_key.png" width="750">
+
+- Scroll down and download "Windows 64 bit" to the VM.
+   
+<img src="https://github.com/anandu106/soar_edr_project/blob/d5bdd8234db702521249da998bc6e426125f6e48/Images/Install_key.png" width="500">
