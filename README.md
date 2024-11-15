@@ -78,5 +78,7 @@ We will create a Windows 10 VM as the endpoint for this project. The VM will be 
 
 <img src="https://github.com/anandu106/soar_edr_project/blob/16eda4f5cac2c02abf4c53b9bf96dc75e5f8e5a3/Images/rule.png" width="500">
 
-- 
+- Run the Lazagne executable again on the VM and this time the detection should capture it.
+
+<img src="https://github.com/anandu106/soar_edr_project/blob/e4714b6ce06a9db4593608aaf8fcea64ae9e96bf/Images/detection.png" width="750">  
 
