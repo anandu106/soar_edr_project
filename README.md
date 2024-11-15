@@ -58,5 +58,15 @@ We will create a Windows 10 VM as the endpoint for this project. The VM will be 
 
 - You should also see the device under the Sensors List.
   
-<img src="https://github.com/anandu106/soar_edr_project/blob/91554ed1293bc897ea7e5211cd38dda41eb6a99c/Images/Sensors_list.png" width="750">
+<img src="https://github.com/anandu106/soar_edr_project/blob/2c6bcfd1bcd6ccdb075ffa25a4d29bd358f59db4/Images/Sensors_list1.png" width="750">
+
+### Generate Telemetry 
+
+- Download the Lazagne executable to the VM from <a href="https://github.com/AlessandroZ/LaZagne/releases/tag/v2.4.6">here.</a> Make sure Real-time Protection is switched off in Windows Security.
+- Run the executable from Powershell
+- In LimaCharlie, under Timeline yyou can see the event captured from the VM.
+
+<img src="https://github.com/anandu106/soar_edr_project/blob/de5dd38e761a24ac0819467cb593d752daf65123/Images/timeline.png" width="750">  
+  
+
 
