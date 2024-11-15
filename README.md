@@ -89,4 +89,8 @@ We will create a Windows 10 VM as the endpoint for this project. The VM will be 
 - Create a Story using Webhook, Trigger, HTTP Request and Send Email. For a detailed explanation, refer <a href="https://www.youtube.com/watch?v=RR4tfMMkIPY">here</a>
 - Finally when the playbook is created it should look something like this.......
 
-https://github.com/user-attachments/assets/81820b45-38fd-4bd3-b4cf-701004c0f34c
+
+
+
+https://github.com/user-attachments/assets/0861fc39-1169-4662-886a-bf65b11d7d7e
+
