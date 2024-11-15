@@ -87,10 +87,22 @@ We will create a Windows 10 VM as the endpoint for this project. The VM will be 
 - Create an account on <a href="https://www.tines.com/">Tines</a> with a valid email.
 - Playbook, in Tines is called as "Story"
 - Create a Story using Webhook, Trigger, HTTP Request and Send Email. For a detailed explanation, refer <a href="https://www.youtube.com/watch?v=RR4tfMMkIPY">here</a>
+
+<img src="https://github.com/anandu106/soar_edr_project/blob/c02d823ed59be31f5343641709ba0403ddb328b7/Images/Tines.png" width="250">
+
 - Finally when the playbook is created it should look something like this.......
 
 
 
 
 https://github.com/user-attachments/assets/0861fc39-1169-4662-886a-bf65b11d7d7e
+
+The email alert when the hack tool is executed on the VM
+
+<img src="https://github.com/anandu106/soar_edr_project/blob/c02d823ed59be31f5343641709ba0403ddb328b7/Images/mail.png" width="750">
+
+The Slack alert after isolating the VM
+
+<img src="https://github.com/anandu106/soar_edr_project/blob/c02d823ed59be31f5343641709ba0403ddb328b7/Images/slack.png" width="750">
+
 
