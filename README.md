@@ -74,8 +74,9 @@ We will create a Windows 10 VM as the endpoint for this project. The VM will be 
 
 <img src="https://github.com/anandu106/soar_edr_project/blob/7b0081dc2bfa667c799d13d592fd8f8bd7ec0d9a/Images/new_rule.png" width="750">
 
-- To create this specific rule type the following information in the Detect and Response field as shown below.
+- To create this specific rule type the following information in the Detect and Response field as shown below. Make sure to copy the hash value from the event generated. And click "Save Rule"
 
 <img src="https://github.com/anandu106/soar_edr_project/blob/16eda4f5cac2c02abf4c53b9bf96dc75e5f8e5a3/Images/rule.png" width="500">
 
+- 
 
