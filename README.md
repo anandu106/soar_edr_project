@@ -66,7 +66,16 @@ We will create a Windows 10 VM as the endpoint for this project. The VM will be 
 - Run the executable from Powershell
 - In LimaCharlie, under Timeline yyou can see the event captured from the VM.
 
-<img src="https://github.com/anandu106/soar_edr_project/blob/de5dd38e761a24ac0819467cb593d752daf65123/Images/timeline.png" width="750">  
-  
+<img src="https://github.com/anandu106/soar_edr_project/blob/de5dd38e761a24ac0819467cb593d752daf65123/Images/timeline.png" width="750"> 
+
+### Create Detection and Response rule
+
+- Go to D&R Rules under Automation Tab and click on "New Rule"
+
+<img src="https://github.com/anandu106/soar_edr_project/blob/7b0081dc2bfa667c799d13d592fd8f8bd7ec0d9a/Images/new_rule.png" width="750">
+
+- To create this specific rule type the following information in the Detect and Response field as shown below.
+
+<img src="https://github.com/anandu106/soar_edr_project/blob/16eda4f5cac2c02abf4c53b9bf96dc75e5f8e5a3/Images/rule.png" width="500">
 
 
