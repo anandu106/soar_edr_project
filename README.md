@@ -54,4 +54,9 @@ We will create a Windows 10 VM as the endpoint for this project. The VM will be 
 - Type ".\{downloaded file name} -i {copied installation key}" and hit enter
 - If done correctly you should see whats shown below
 
-<img src="https://github.com/anandu106/soar_edr_project/blob/90e4a888b7edee23e428b2a123632c449479bda8/Images/Lima_success.png" width="250"> 
+<img src="https://github.com/anandu106/soar_edr_project/blob/90e4a888b7edee23e428b2a123632c449479bda8/Images/Lima_success.png" width="250">
+
+- You should also see the device under the Sensors List.
+  
+<img src="https://github.com/anandu106/soar_edr_project/blob/91554ed1293bc897ea7e5211cd38dda41eb6a99c/Images/Sensors_list.png" width="250">
+
